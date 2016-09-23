@@ -1,0 +1,2 @@
+This file is made for Lab 2 in CS207.
+This is one of my favourite classes.
